@@ -1,0 +1,25 @@
+#HeadingC1 {
+  color: rgb(43, 148, 253);
+}
+
+p {
+  background-color: rgb(125, 177, 177);
+}
+
+footer {
+  margin: 18px;
+  background-color: bisque;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.container {
+  max-width: 1000px;
+  margin: auto;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
